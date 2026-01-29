@@ -44,3 +44,18 @@ The following analyses were carried out in the notebook:
 ---
 
 ## Folder Structure
+World-Happiness-EDA/
+│
+├── data/
+│   ├── raw/
+│   │   └── happiness_2017.csv
+│   │
+│   └── processed/
+│       └── cleaned_happiness_2017.csv   ✅
+│
+├── notebooks/
+│   └── Happiness_2017_EDA.ipynb
+│
+├── README.md
+└── requirements.txt
+
